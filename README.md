@@ -37,4 +37,4 @@ Cisco Catalyst 9200L • StackWise • Palo Alto PA-820 • Arctic Wolf AWN202 �
 Happy to discuss warehouse/DC networking, zero-downtime migrations, or security hardening anytime.
 
 — Charlie Hofner  
-linkedin.com/in/charlie-hofner • charles.hofner@gmail.com
+[linkedin.com/in/charlie-hofner](https://www.linkedin.com/in/charlie-hofner/) • charles.hofner@gmail.com
