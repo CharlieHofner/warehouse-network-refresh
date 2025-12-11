@@ -3,8 +3,9 @@ Warehouse Network Modernization & Zero-Downtime Resiliency Upgrade — 2025
 Solo-executed end-to-end infrastructure overhaul across two active distribution warehouses while maintaining 100% operational uptime.
 
 Duration: March 10 – June 16, 2025  
-Role: Sole On-Site Engineer (remote assistance from NY teammate)  
-Company: HVAC Parts & Motors Distributor – Earth City, MO
+Role: Sole On-Site Engineer (remote assistance from NY teammate) 
+**Project Owner/Author**: Charlie Hofner  
+**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/charlie-hofner/) 
 
 One-Page Case Study
 → Download PDF: Charlie_Hofner_Warehouse_Network_Modernization_2025.pdf
